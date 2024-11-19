@@ -100,5 +100,5 @@ wcwidth==0.2.8
 webrtcvad==2.0.10
 xgboost==2.1.2
 zipp==3.17.0
-setuptools>=68.0.0
+setuptools
 wheel>=0.40.0
